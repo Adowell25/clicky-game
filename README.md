@@ -4,7 +4,7 @@ Clicky game is a react based web app that challenges the users memory to choose 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-Click Start
+Clicky Start
 
 ![](images1/clicky_start.png)
 
